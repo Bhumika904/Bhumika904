@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhumika904
 - 👀 I’m interested in web/app development
-- 🌱 I’m currently learning react
+- 🌱 I’m a react developer
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me ...
 
